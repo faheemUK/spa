@@ -1,0 +1,77 @@
+html {
+  --primary-color: #a80000;
+  --secondary-color: #750707;
+  --primary-font: 'SFProRegular';
+}
+
+.error-message-generic p, .error-message-field-generic p {
+  margin-top: 2px;
+  color: var(--primary-color) !important;
+  word-break: break-word;
+  white-space: break-spaces;
+}
+
+.post-footer-btns {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.break-word {
+  word-break: break-word;
+}
+
+.no-border {
+  border: none !important;
+}
+
+.max-width-100 {
+  max-width: 100% !important;
+}
+
+.no-data {
+  color: var(--red-color);
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.no-data-button {
+  padding: 15px 25px;
+  background: var(--red-color);
+  color: white !important;
+  border-radius: 5px;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  border-bottom: 1px solid;
+}
+
+.heading {
+  text-align: center;
+  padding: 1.5rem;
+}
+
+.post-parent {
+  height: 100%;
+  margin: 1rem;
+}
+
+.post-btn {
+  float: right;
+}
+
+.post-title {
+  font-size: 20px;
+  /* justify-content: center; */
+  /* display: flex; */
+  text-align: left;
+  padding-top: 1rem;
+}
+
+.post-body {
+  font-size: 18px;
+}
