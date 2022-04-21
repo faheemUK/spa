@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Screenshots in ReadME
 
-![](screenshots/action-dispatcher.png)
+![](screenshots/action-dispatcher.PNG)
