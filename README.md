@@ -71,7 +71,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Screenshots of Task
 
+**First Screen of Post**
+![](screenshots/post-screen.PNG)
 
+**Model Windows to add new Post**
+![](screenshots/new-post-model.PNG)
+
+
+**Validation Fields with data**
+![](screenshots/filled-form.PNG)
+
+**Afer successfully added**
+![](screenshots/new-post-list.PNG)
 
 
 
