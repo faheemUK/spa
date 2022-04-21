@@ -73,3 +73,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Screenshots in ReadME
 
 ![](screenshots/action-dispatcher.PNG)
+![](screenshots/api-funtions.PNG)
+![](screenshots/app-file.PNG)
+![](screenshots/config-file.PNG)
+![](screenshots/parent-post-screen.PNG)
+![](screenshots/post-a-model-code.PNG)
+![](screenshots/project-structure.PNG)
+![](screenshots/reducer.PNG)
+![](screenshots/routes-defining.PNG)
+![](screenshots/store.PNG)
